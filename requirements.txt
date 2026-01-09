@@ -1,0 +1,7 @@
+deepface==0.0.93
+opencv-contrib-python==4.10.0.84
+numpy==1.26.4
+
+# atividade (opcional)
+torch>=2.1
+torchvision>=0.16
